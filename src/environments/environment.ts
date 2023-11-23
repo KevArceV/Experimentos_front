@@ -1,5 +1,5 @@
 export const environment={
-  production:false,
-  base:"https://expconnection2connection-backend.onrender.com"
+  production:true,
+  base:"https://github.com/KevArceV/Experimentos_front.git"
   //base:"https://data-connection2connection.onrender.com"
 }
